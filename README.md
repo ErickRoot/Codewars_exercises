@@ -1,2 +1,2 @@
 # Kata_Codewars
-I'll update the exercises that i finished from Codewars
+In this repository i'll upload the exercises what i finished.
