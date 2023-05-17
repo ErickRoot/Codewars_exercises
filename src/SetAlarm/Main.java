@@ -13,7 +13,7 @@ public class Main {
     It should return false otherwise.
      */
     public static boolean setAlarm(boolean employed, boolean vacation){
-        if (employed && vacation == false){
+        if (employed == true && vacation == false){
             return true;
         }else {
             return false;
