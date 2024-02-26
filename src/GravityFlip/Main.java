@@ -23,7 +23,7 @@ public class Main {
                     if (arr[j] > arr[j-1]){ // la condicion verifica si el valor de la ultima posicion es mayor que la penultima
                         int valor1 = arr[j]; // si es mayor que la penultima, se almacena en la variable para despues
                         arr[j] = arr[j-1]; // intercambiar el lugar de la ultima con la de la penultima y despues
-                        arr[j-1] = valor1; // cambiar el valor de la penultima por el que donde esta posicionado arr[j]    ILBQ7Q7E9Nd
+                        arr[j-1] = valor1; // cambiar el valor de la penultima por el que donde esta posicionado arr[j]
                     }
 
                 }
