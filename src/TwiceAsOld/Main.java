@@ -3,10 +3,11 @@ package TwiceAsOld;
 public class Main {
 
     public static void main(String[] args) {
-        int edadFather = 25 ;
-        int edadSon =15;
+        TwiceAsOld(30, 7);
+    }
+    public static int TwiceAsOld(int dadYears , int sonYears){
+        int dif = (dadYears-(sonYears*2) > 0 ) ? dadYears-(sonYears*2) : (dadYears-(sonYears*2))*-1;
 
-        int operacion = edadFather - (edadSon*2);
-        System.out.println(operacion);
+        return dif;
     }
 }
