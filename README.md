@@ -1,2 +1,2 @@
 # Katas
-In this repository i'll upload the exercises what i finished.
+In this repository I'll upload the exercises what i finished in the platform.
